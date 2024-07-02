@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shopflutter/cart_page.dart';
-import 'package:shopflutter/product_list.dart';
+import 'package:shopflutter/pages/cart_page.dart';
+import 'package:shopflutter/widgets/product_list.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
